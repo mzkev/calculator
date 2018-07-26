@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.calc{
+  align-items: center;
+  width:800px; 
+  margin:0 auto;
+}
+.bigletter{
+  margin-bottom: 40px;
+}
